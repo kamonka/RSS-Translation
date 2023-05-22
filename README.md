@@ -11,6 +11,6 @@
 
 ## 已转换翻译源
 
- - source001 [https://rss.stephenslab.top/feed/4498.xml](https://rss.stephenslab.top/feed/4498.xml) -> [anekdot_rss.xml](rss/anekdot_rss.xml)
- - source002 [http://www.anekdot.ru/rss/tag/36.xml](http://www.anekdot.ru/rss/tag/36.xml) -> [anekdot36_rss.xml](rss/anekdot36_rss.xml)
+ - source001 [https://rss.stephenslab.top/feed/4498.xml](https://rss.stephenslab.top/feed/4498.xml) -> [anekdot1_rss.xml](rss/anekdot1_rss.xml)
+ - source002 [https://www.anekdot.ru/rss/export_j.xml](https://www.anekdot.ru/rss/export_j.xml) -> [anekdot2_rss.xml](rss/anekdot2_rss.xml)
  - source003 [http://rss.acast.com/nature](http://rss.acast.com/nature) -> [nature_rss.xml](rss/nature_rss.xml)
