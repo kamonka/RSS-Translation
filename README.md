@@ -14,4 +14,4 @@
  - source001 [https://rss.stephenslab.top/feed/4498.xml](https://rss.stephenslab.top/feed/4498.xml) -> [anekdot1_rss.xml](rss/anekdot1_rss.xml)
  - source002 [https://www.anekdot.ru/rss/export_j.xml](https://www.anekdot.ru/rss/export_j.xml) -> [anekdot2_rss.xml](rss/anekdot2_rss.xml)
  - source003 [https://feedx.net/rss/scmp.xml](https://feedx.net/rss/scmp.xml) -> [scmp_rss.xml](rss/scmp_rss.xml)
- - source004 [http://libgen.is/rss/index.php](http://libgen.is/rss/index.php) -> [libgen_rss.xml](rss/libgen_rss.xml)
+ - source004 [https://rss.stephenslab.top/feed/5049.xml](https://rss.stephenslab.top/feed/5049.xml) -> [libgen_rss.xml](rss/libgen_rss.xml)
