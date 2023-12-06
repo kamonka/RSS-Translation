@@ -17,4 +17,4 @@
  - source004 [https://rss.stephenslab.top/feed/5049.xml](https://rss.stephenslab.top/feed/5049.xml) -> [libgen_rss.xml](rss/libgen_rss.xml)
  - source005 [https://rsseverything.com/feed/0057471e-3f41-443d-9a01-00131858648c.xml](https://rsseverything.com/feed/0057471e-3f41-443d-9a01-00131858648c.xml) -> [UCPress_rss.xml](rss/UCPress_rss.xml)
  - source006 [https://rsseverything.com/feed/4e53f62c-4162-41a0-8d1d-0b6cf0c720b5.xml](https://rsseverything.com/feed/4e53f62c-4162-41a0-8d1d-0b6cf0c720b5.xml) -> [PUPress_rss.xml](rss/PUPress_rss.xml)
- - source007 [https://rsseverything.com/feed/e727076a-9260-40c6-b0f4-c25719614d87.xml](https://rsseverything.com/feed/e727076a-9260-40c6-b0f4-c25719614d87.xml) -> [PUPress_rss.xml](rss/PUPress_rss.xml)
+ - source007 [https://rsseverything.com/feed/e727076a-9260-40c6-b0f4-c25719614d87.xml](https://rsseverything.com/feed/e727076a-9260-40c6-b0f4-c25719614d87.xml) -> [CUPress_rss.xml](rss/CUPress_rss.xml)
